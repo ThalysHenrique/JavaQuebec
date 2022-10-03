@@ -1,3 +1,5 @@
+package MetodosJava;
+
 public class Mensagem {
     public static void msg(int msg){
         if(msg >= 1 && msg <= 11){

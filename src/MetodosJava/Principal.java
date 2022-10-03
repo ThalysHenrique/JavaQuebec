@@ -1,3 +1,5 @@
+package MetodosJava;
+
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -8,7 +10,7 @@ public class Principal {
 
         // Classe Calculadora
 
-        System.out.println("\n#### Calculadora Java ####>");
+        System.out.println("\n#### MetodosJava.Calculadora Java ####>");
         Calculadora.soma(7, 6);
         Calculadora.subtracao(100, 50);
         Calculadora.multiplicacao(7, 7);
@@ -23,7 +25,7 @@ public class Principal {
 
         // Classe Emprestimo
 
-        System.out.println("\n#### Emprestimo - Banco Java ####");
+        System.out.println("\n#### MetodosJava.Emprestimo - Banco Java ####");
 
         Emprestimo.calcular(2500, 2);
         Emprestimo.calcular(8000, 3);

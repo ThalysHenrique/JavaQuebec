@@ -1,3 +1,5 @@
+package MetodosJava;
+
 public class Emprestimo {
     public static int DuasParcelas(){
         return 2;
