@@ -11,7 +11,7 @@ Assuntos abordados no Bootcamp -->>
 - Estruturas Condicionais
 - Estruturas de Repetição
 - Tratamento de Exceções
-- Collections
+- Collections Framework (List, Set e Stream API)
 - Programação Orientada a Objetos
 - Debbugging
 - Testes Unitários com JUnit
