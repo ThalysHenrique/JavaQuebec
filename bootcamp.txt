@@ -1,0 +1,10 @@
+Estudos em Java
+
+Tratamento de Exceções
+
+CheckedException
+
+Thalys
+
+02/11/2022
+
